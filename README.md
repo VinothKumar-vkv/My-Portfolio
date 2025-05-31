@@ -39,3 +39,34 @@
 
 ## 🧱 Project Structure
 
+📁 3d-portfolio/
+├── public/ # Static assets (models, textures, etc.)
+├── src/
+│ ├── assets/ # Images, 3D models
+│ ├── components/ # React components
+│ ├── scenes/ # Three.js scenes setup
+│ ├── animations/ # GSAP animation logic
+│ ├── styles/ # Global and modular styles
+│ ├── App.jsx # Main component
+│ └── main.jsx # Entry point
+├── .gitignore
+├── package.json
+├── README.md
+└── vite.config.js / webpack.config.js
+
+
+
+---
+
+## ⚙️ Getting Started
+
+### 📦 Install
+
+```bash
+git clone https://github.com/your-username/3d-portfolio.git
+cd 3d-portfolio
+npm install
+npm run dev
+npm run build
+
+
