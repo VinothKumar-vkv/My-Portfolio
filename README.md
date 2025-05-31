@@ -1,12 +1,41 @@
-# React + Vite
+<h1 align="center">
+  🚀 3D Portfolio
+</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
+</p>
 
-Currently, two official plugins are available:
+<p align="center">
+  🌐 A modern, animated, and interactive 3D portfolio built using <strong>React</strong>, <strong>Three.js</strong>, and <strong>GSAP</strong>. Explore my work in an immersive environment with smooth transitions and responsive design.
+</p>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🔥 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🌀 **Real-time 3D Scene** powered by Three.js
+- ⚛️ **React-based Architecture** for scalability and modularity
+- 🎬 **GSAP Animations** for smooth UI transitions
+- 📱 **Responsive Layout** optimized for all devices
+- 🎨 **Custom Shaders & Materials** (if applicable)
+- 🔁 **Scroll-triggered effects & page transitions**
+
+---
+
+## 🛠️ Tech Stack
+
+| Tech          | Description                                      |
+|---------------|--------------------------------------------------|
+| `React`       | Component-based UI library                       |
+| `Three.js`    | WebGL 3D rendering engine                        |
+| `GSAP`        | High-performance animations                      |
+| `Vite` / `Webpack` | Fast development and production builds      |
+| `SCSS/CSS`    | Responsive and clean styles                      |
+
+---
+
+## 🧱 Project Structure
+
